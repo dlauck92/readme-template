@@ -43,7 +43,5 @@ npm test
 Your Name
 
 LinkedIn - https://www.linkedin.com/in/drew-lauck/
+
 GitHub - https://github.com/dlauck92
-
-
-[https://github.com/yourname/github-link](https://github.com/dbader/)
