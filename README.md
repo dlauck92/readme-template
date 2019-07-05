@@ -40,8 +40,6 @@ npm test
 
 ## Meta
 
-Your Name
-
 LinkedIn - https://www.linkedin.com/in/drew-lauck/
 
 GitHub - https://github.com/dlauck92
